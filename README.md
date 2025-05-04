@@ -9,4 +9,6 @@ image montrant un aperçu du code :
 ![image alt](https://github.com/IlyassHaidouch/jenkins-helloworld/blob/main/Screenshot%20from%202025-05-04%2014-17-50.png?raw=true)
 
 alors maintenant, je sauvegarde et je lance le build :
+![image alt](https://github.com/IlyassHaidouch/jenkins-helloworld/blob/main/Screenshot%20from%202025-05-04%2014-48-57.png?raw=true)  
 
+à la fin, j'ai un Hell
